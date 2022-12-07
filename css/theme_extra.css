@@ -12,6 +12,10 @@
     padding: 2px 5px;
 }
 
+.wy-side-nav-search {
+    background-color: #00A36C;
+}
+
 /**
  * Make code blocks display as blocks and give them the appropriate
  * font size and padding.
